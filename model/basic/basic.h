@@ -1,0 +1,1 @@
+void escreveTexto(void * font, char *s, float x, float y, float z);
