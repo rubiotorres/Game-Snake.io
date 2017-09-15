@@ -36,4 +36,4 @@ Implementação Criativa:
 - `make clean` - Apaga todos os arquivos compilados e executável.
 
 ## Licença
-Este código possui a licença [Beer-ware License](https://github.com/gabrieldutra/Catapults/blob/master/LICENSE.md).
+Este código possui a licença [Two-partners License](https://github.com/rubiotorres/Game-Snake.io/blob/master/LICENSE).
